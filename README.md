@@ -7,9 +7,7 @@ GOAL: The dedicated Compositor version for three major platforms such as iOS, An
 
 Repositories: 
 
-C++ DSP exported code of application from Cycling '74 Gen~ exportcode feature
-Original Compositor Lite application version 1.0.7 for Windows and Mac
-Preset files
+C++ DSP exported code of application from Cycling '74 Gen~ exportcode feature, original Compositor Lite application version 1.0.7 for Windows and Mac, preset files
 
 DEAD LINE:
 
