@@ -15,6 +15,12 @@ DEAD LINE:
 
 Version history:
 
+exportcode v1.7
+
+- Stochastic algorithm of multiplier selector
+- Automatic selection of main channel parameters
+- Angular frequency connected with multiplier
+
 exportcode v1.6:
 
 - Master antialiasing filter
